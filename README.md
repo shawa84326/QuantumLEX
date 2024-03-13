@@ -17,21 +17,22 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
 
 ## Setup
  Download the Folder:
-   ```bash
-   https://drive.google.com/drive/folders/1v-0aVG3xIncN1RGNdtag7CoBFjBQcVwL?usp=sharing
+      ```bash
+      https://drive.google.com/drive/folders/1v-0aVG3xIncN1RGNdtag7CoBFjBQcVwL?usp=sharing
 
   
 Videolink for product Demo
-   ```bash
+
+  ```bash
    https://youtu.be/1hRJgASxdtI
 
  Open the folder in visual studio
 
 
-       ```bash
-       pip install -r requirements.txt
+           ```bash
+            pip install -r requirements.txt
 
-     ```bash
-     streamlit run app.py
+ ```bash
+ streamlit run app.py
 
   Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
