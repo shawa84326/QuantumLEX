@@ -22,10 +22,10 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
    
 2. Open the folder in visual studio
 
-3. ```bash
-   pip install -r requirements.txt
+3.    ```bash
+       pip install -r requirements.txt
 
-4. ```bash
-   streamlit run app.py
+4.   ```bash
+     streamlit run app.py
 
-5. Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
+5.  Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
