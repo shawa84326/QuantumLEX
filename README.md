@@ -16,23 +16,23 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
 - PyPDFium2: For extracting text from PDF documents.
 
 ## Setup
- Download the Folder:
+
+1. Download the Folder:
       ```bash
       https://drive.google.com/drive/folders/1v-0aVG3xIncN1RGNdtag7CoBFjBQcVwL?usp=sharing
 
   
-Videolink for product Demo
+2. Videolink for product Demo
 
-  ```bash
-   https://youtu.be/1hRJgASxdtI
+    ```bash
+    https://youtu.be/1hRJgASxdtI
 
- Open the folder in visual studio
+3. Open the folder in visual studio
 
+4.  ```bash
+    pip install -r requirements.txt
 
-           ```bash
-            pip install -r requirements.txt
-
- ```bash
- streamlit run app.py
+5.  ```bash
+     streamlit run app.py
 
   Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
