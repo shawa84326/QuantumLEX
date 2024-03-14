@@ -35,4 +35,8 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
 5.  ```bash
      streamlit run app.py
 
+If you are facing error with llava part (i.e. image upload error), then run app2.py (Note: Due to excessive processsing time due to no gpu , streamlit may timeout) 
+   ```bash
+     streamlit run app2.py
+
   Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
