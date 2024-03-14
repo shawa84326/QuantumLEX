@@ -6,6 +6,8 @@ Legal Research Engine Insight
 ## Overview
 QuantumLEX is an offline legal engine that assists attorneys in analyzing cases through audio instructions, image descriptions, and text prompts. It utilizes state-of-the-art natural language processing models, audio transcription, and image analysis to provide comprehensive responses to user queries.
 
+#Note: Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
+
 ## Technology Used
 - Streamlit: For the interactive web-based user interface.
 - PyTorch and Transformers: For audio transcription using the Whisper model.
@@ -39,4 +41,11 @@ If you are facing error with llava part (i.e. image upload error), then run app2
    ```bash
      streamlit run app2.py
 
-  Each prompt takes approx 25 minutes to respond, and moreover the file is 28-29 GB in size, therefore it cannot be uploaded in github, so googledrive link is provided
+
+
+
+
+
+
+
+
