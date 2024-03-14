@@ -11,7 +11,7 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
 - PyTorch and Transformers: For audio transcription using the Whisper model.
 - Llama and Llavender: For handling image-related queries.
 - Mistral: For handling text prompts.
-- Langchain: A framework for building multimodal AI chatbots.
+- Langchain: A framework for building multimodal AI chat system for legal assistance.
 - ChromaDB: For managing embeddings and vector stores.
 - PyPDFium2: For extracting text from PDF documents.
 
