@@ -24,7 +24,7 @@ QuantumLEX is an offline legal engine that assists attorneys in analyzing cases 
       https://drive.google.com/drive/folders/1v-0aVG3xIncN1RGNdtag7CoBFjBQcVwL?usp=sharing
 
   
-2. Videolink for product Demo
+2. Videolink for product Demo (In video at time 3:58 the oral instruction was given to modal which transcribed by whisper and later processed, you may pause the video and read the output, due to exceeding time limit of 2 minutes, I cant explain the output)
 
     ```bash
     https://youtu.be/1hRJgASxdtI
